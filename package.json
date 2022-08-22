@@ -40,7 +40,7 @@
     "test:engines": "nvu engines npm test"
   },
   "dependencies": {
-    "esm-require-directory": "/home/nico/code/esm-require-directory"
+    "esm-require-directory": "https://github.com/nicoandmee/esm-require-directory.git#41e0318ebe8ae099f2be712e24ac79eb00a363fb"
   },
   "devDependencies": {
     "@typescript-eslint/parser": "^5.33.0",
